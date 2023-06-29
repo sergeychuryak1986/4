@@ -1,0 +1,1 @@
+scp root@ip_addr:/root/massa/massa-client/wallet.dat ~/Desktop/wallet.dat
